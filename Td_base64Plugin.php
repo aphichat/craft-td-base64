@@ -20,6 +20,6 @@ class Td_base64Plugin extends BasePlugin
 
   function getDeveloperUrl()
   {
-    return 'https://github.com/aphichat/craft-td-base64';
+    return 'https://github.com/aphichat';
   }
 }
